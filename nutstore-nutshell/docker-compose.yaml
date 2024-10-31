@@ -2,12 +2,6 @@ version: "3.7"
 
 services:
   app_proxy:
-    image: getumbrel/app-proxy:latest # Use the appropriate proxy image
-    environment:
-      APP_HOST: nutstore-nutshell_server_1 # Change this to match your service name
-      APP_PORT: 3338 # Port where Nutshell listens
-
-  server:
     image: cashubtc/nutshell:latest # The Docker image for Nutshell
     ports:
       - "3338:3338" # Expose port 3338
