@@ -1,2 +1,2 @@
-id: "nuts-nutshell" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
-name: "nuts" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
+id: "nutstore" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
+name: "Nut Store" # Choose the name of your app store. It will show up in the UI as "<name> App Store".

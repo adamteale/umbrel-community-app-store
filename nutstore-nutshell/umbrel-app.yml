@@ -1,0 +1,27 @@
+manifestVersion: 1
+id: nutstore-nutshell
+name: Nutshell
+tagline: let's try to get this running
+icon: https://svgur.com/i/mvA.svg
+category: Development
+version: "1.0.0"
+port: 4000
+description: >-
+  Trying to get nutshell running on Umbrel =S
+
+developer: cashubtc
+website: https://github.com/cashubtc/nutshell
+submitter: Umbrel
+submission: https://github.com/cashubtc/nutshell
+repo: https://github.com/cashubtc/nutshell
+support: https://github.com/cashubtc/nutshell
+gallery:
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://i.imgur.com/yyVG0Jb.jpeg
+releaseNotes: >-
+  first attempt
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
